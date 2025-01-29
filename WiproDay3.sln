@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiproDay3", "WiproDay3\WiproDay3.csproj", "{19BE339B-2CF3-4399-AB3E-A25433A8B56A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessSpecifier", "AccessSpecifier\AccessSpecifier.csproj", "{0981F995-DDD7-4FC1-A057-9C8CB468F857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodStatic", "ClassMethodStatic\ClassMethodStatic.csproj", "{1987E9BA-F33A-44B6-8DE4-1ABB87ADFD7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0981F995-DDD7-4FC1-A057-9C8CB468F857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0981F995-DDD7-4FC1-A057-9C8CB468F857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0981F995-DDD7-4FC1-A057-9C8CB468F857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1987E9BA-F33A-44B6-8DE4-1ABB87ADFD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1987E9BA-F33A-44B6-8DE4-1ABB87ADFD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1987E9BA-F33A-44B6-8DE4-1ABB87ADFD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1987E9BA-F33A-44B6-8DE4-1ABB87ADFD7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
